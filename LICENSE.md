@@ -1,4 +1,4 @@
-# 
+# Premium Ollama scripts. Avec analyse de documents et assistant vocal — optimisé pour des performances et une efficacité maximales.
 
 
 
